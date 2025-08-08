@@ -14,14 +14,14 @@ A cross-platform Flutter app that provides real-time weather information and for
 Below are screenshots of the main screens:
 
 ### Dashboard
-![Dashboard](screenshots/Dashboard.png)
+<img src="screenshots/Dashboard.png" alt="Dashboard" width="350"/>
 
 ### Forecast
-![Forecast](screenshots/Forecast.png)
-![Forecast2](screenshots/Forecast2.png)
+<img src="screenshots/Forecast.png" alt="Forecast" width="350"/>
+<img src="screenshots/Forecast2.png" alt="Forecast2" width="350"/>
 
 ### About
-![About](screenshots/About.png)
+<img src="screenshots/About.png" alt="About" width="350"/>
 
 ## Getting Started
 
