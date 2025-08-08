@@ -16,6 +16,8 @@ dependencies:
   weather: ^3.2.1
   weather_animation: ^1.1.2
 
+  connectivity_plus: ^5.0.2
+
 
 dev_dependencies:
   flutter_test:
