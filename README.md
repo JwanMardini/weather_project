@@ -43,23 +43,12 @@ Below are screenshots of the main screens:
 	const OPENWEATHER_API_URL = 'https://api.openweathermap.org/data/2.5/weather?';
 	const OPENWEATHER_FORECAST_API_URL = 'https://api.openweathermap.org/data/2.5/forecast?';
 	```
+ Replace `'YOUR_API_KEY_HERE'` with your actual OpenWeather API key.
 
 4. **Run the app:**
 	```sh
 	flutter run
 	```
-
-## Environment Variables
-
-The API keys and URLs are stored in `lib/env.dart`:
-
-```dart
-const OPENWEATHER_API_KEY = 'YOUR_API_KEY_HERE';
-const OPENWEATHER_API_URL = 'https://api.openweathermap.org/data/2.5/weather?';
-const OPENWEATHER_FORECAST_API_URL = 'https://api.openweathermap.org/data/2.5/forecast?';
-```
-
-Replace `'YOUR_API_KEY_HERE'` with your actual OpenWeather API key.
 
 ## License
 
